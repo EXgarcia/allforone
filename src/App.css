@@ -36,3 +36,134 @@
     transform: rotate(360deg);
   }
 }
+
+.bgImage
+{
+  background-image: url(./assets/allforone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.rowTwo, .rowThree
+{
+  display: flex;
+ justify-content: left;
+ padding-top: 30px;
+ 
+}
+.rowOne
+{
+  display: flex;
+ justify-content: left;
+ padding-top: 204px;
+ padding-left: 100px;
+ 
+}
+.title
+{
+padding-top: 0px;
+display: flex;
+justify-content: center;
+-webkit-text-fill-color: white;
+}
+
+.bgStud
+{
+  background-image: url(./assets/tenya-iida-my-hero-academia.avif);
+  background-size: cover;
+  height: 100vh;
+
+}
+.bgSay
+{
+  background-image: url(./assets/allmight.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+.bgAsk
+{
+  background-image: url(./assets/MHA_Deku.webp);
+  height: 100vh;
+  background-size: cover;
+}
+.bgAdd
+{
+  background-image: url(./assets/10-Best-Things-About-Twice-In-My-Hero-Academia.avif);
+  height: 100vh;
+  background-size: cover;
+}
+.bgMad
+{
+  background-image: url(./assets/bakugo-se-revela-su-nombre-de-hxroe.jpg_1902800913.webp);
+  height: 100vh;
+  background-size: cover;
+}
+.bgOdd
+{
+  background-image: url(./assets/7080.webp);
+  height: 100vh;
+  background-size: cover;
+}
+.bgGreat
+{
+  background-image: url(./assets/Stain-Header.avif);
+  height: 100vh;
+  background-size: cover;
+}
+.bgRev
+{
+  background-image: url(./assets/392308-eijiro-kirishima-red-riot-mha-my-hero-academia-bnha.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+.bgRes
+{
+  background-image: url(./assets/oh4scbhqqyt61.webp);
+  height: 100vh;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.helloPage
+{
+  padding-top: 12%;
+  display: flex;
+  justify-content: right;
+
+}
+.byePage
+{
+  padding-top: 22%;
+  display: flex;
+  justify-content: center;
+
+}
+.midPage
+{
+  padding-top:1%;
+  display: flex;
+  justify-content: center;
+
+}
+.cenPage
+{
+  padding-top:15%;
+  display: flex;
+  justify-content: center;
+
+}
+.introHello
+{
+  padding-top: 5%;
+  background-color:azure;
+  border-style: double;
+ 
+}
+.outHello
+{
+
+  background-color:azure;
+  border-style: double;
+ 
+}
