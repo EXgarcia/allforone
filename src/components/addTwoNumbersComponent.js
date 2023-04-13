@@ -17,7 +17,7 @@ export default function AddingTwonumbersComponent() {
         let response = await GetAddingTwoNumbers(addingTwoNumbersInput, addingTwoNumbersInput2)
         setAddingTwoNumbers(response);
         }else{
-            console.log(alert('Enter a valid response please.'))
+            console.log(alert('Enter a valid response please and thank you.'))
         }
     
         }
